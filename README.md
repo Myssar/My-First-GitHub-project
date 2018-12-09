@@ -1,5 +1,5 @@
 # My-First-GitHub-project
-{Personality System CV Analysis}
+{Personal Resume  System}
 Advantages
 This system used in many business sectors that may require expert candidate.
 This system will reduce workload of the human resource department.
